@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class QuanLySachMenu {
+public class BTT4 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.class);
         int luachon;
@@ -10,7 +10,7 @@ public class QuanLySachMenu {
             System.out.println("1. Kiem tra tinh hop le cua sach");
             System.out.println("2. Phan loai gia sach");
             System.out.println("3. Phan loai ton kho");
-            System.out.println("4. Chon loai sach (Switch-Case)");
+            System.out.println("4. Chon loai sach ");
             System.out.println("0. Thoat chuong trinh");
             System.out.print("Nhap lua chon cua ban (0-4): ");
             
